@@ -1,4 +1,4 @@
-
+<img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" alt="MasterHead" width="100%"  />
 
 <h1 align="center">Hi 👋, I'm Akhand Pratap Singh</h1>
 <h3 align="center">A MERN developer from India</h3>
