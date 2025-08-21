@@ -25,3 +25,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhandgit&theme=dark" alt="akhandgit" /></p>
 
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkhandGit/AkhandGit/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkhandGit/AkhandGit/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/AkhandGit/AkhandGit/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
