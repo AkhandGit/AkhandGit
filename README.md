@@ -46,19 +46,13 @@
 
 <div align="center">
 
-  <!-- 🌙 Dark Mode -->
-  <img src="https://github-readme-stats.vercel.app/api?username=akhandgit&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=4CAF50#gh-dark-mode-only" alt="GitHub Stats Dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhandgit&hide_border=true&background=00000000&ring=4CAF50&fire=FF6F61&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff#gh-dark-mode-only" alt="GitHub Streak Dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhandgit&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff#gh-dark-mode-only" alt="Most Used Languages Dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akhandgit&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=4CAF50" alt="GitHub Stats" />
 
-  <!-- ☀️ Light Mode -->
-  <img src="https://github-readme-stats.vercel.app/api?username=akhandgit&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&text_color=000000&icon_color=4CAF50#gh-light-mode-only" alt="GitHub Stats Light" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhandgit&hide_border=true&background=00000000&ring=4CAF50&fire=FF6F61&currStreakLabel=000000&sideNums=000000&currStreakNum=000000&sideLabels=000000#gh-light-mode-only" alt="GitHub Streak Light" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhandgit&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=000000#gh-light-mode-only" alt="Most Used Languages Light" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhandgit&hide_border=true&background=00000000&ring=4CAF50&fire=FF6F61&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff" alt="GitHub Streak" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhandgit&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff" alt="Most Used Languages" />
 
 </div>
-
-
 
 
 <div align="center">
