@@ -46,13 +46,15 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=akhandgit&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=4CAF50" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akhandgit&show_icons=true&hide_border=true&bg_color=00000000&title_color=2196F3&text_color=4CAF50&icon_color=2196F3" alt="GitHub Stats" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhandgit&hide_border=true&background=00000000&ring=4CAF50&fire=FF6F61&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhandgit&hide_border=true&background=00000000&ring=2196F3&fire=FF6F61&currStreakLabel=2196F3&sideNums=4CAF50&currStreakNum=4CAF50&sideLabels=2196F3" alt="GitHub Streak" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhandgit&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhandgit&layout=compact&hide_border=true&bg_color=00000000&title_color=2196F3&text_color=4CAF50" alt="Most Used Languages" />
 
 </div>
+
+
 
 
 <div align="center">
