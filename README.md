@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhandgit&label=Profile%20views&color=743f78&style=plastic" alt="akhandgit" /> </p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=aura"><img src="https://github-profile-trophy.vercel.app/?username=akhandgit" alt="akhandgit" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhandgit" alt="akhandgit" /></a> </p>
 
 - 🌱 I’m currently learning **NextJS**
 
